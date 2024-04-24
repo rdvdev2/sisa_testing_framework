@@ -1,0 +1,2 @@
+source_glob = "../src/**/*.vhd"
+test_files_dir = "test_files"

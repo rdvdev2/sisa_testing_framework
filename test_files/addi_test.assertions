@@ -1,0 +1,6 @@
+Mem[01:00] = fffe
+Mem[03:02] = fffc
+Mem[05:04] = ffff
+Mem[07:06] = 0001
+Mem[09:08] = fffe
+Mem[0b:0a] = fffe
